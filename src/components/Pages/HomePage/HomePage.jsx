@@ -1,7 +1,7 @@
 import React from "react";
-import background from "../../data/HomePage.jpg";
-import Button from "../common/Button";
-import { SocialLinksArray } from "../../data/navbar-link";
+import background from "../../../data/HomePage.jpg";
+import Button from "../../common/Button";
+import { SocialLinksArray } from "../../../data/navbar-link";
 import About from "./About";
 
 import HowITWorks from "./HowITWorks";

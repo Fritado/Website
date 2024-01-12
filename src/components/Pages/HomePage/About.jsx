@@ -1,8 +1,7 @@
 import React from "react";
-import AboutImage from "../../data/About-image.png";
+import AboutImage from "../../../data/About-image.png";
 import { IoMdArrowDropdown } from "react-icons/io";
-import { FaCaretRight } from "react-icons/fa";
-import { AboutContent } from "../../data/about-data";
+import { AboutContent } from "../../../data/about-data";
 
 const About = () => {
   return (
